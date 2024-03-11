@@ -1,9 +1,20 @@
----
-title: "Quartz Showcase"
----
+# Frontmatter
+- 'title'
+- 'description' for link previews
+- 'aliases'
+- 'tags'
+- 'draft'
 
-Want to see what Quartz can do? Here are some cool community gardens:
+# Syncing Content
+npx quartz sync
 
+# Local View
+npx quartz build --serve
+
+# Update
+npx quartz update
+
+# Sample Pages
 - [Quartz Documentation (this site!)](https://quartz.jzhao.xyz/)
 - [Jacky Zhao's Garden](https://jzhao.xyz/)
 - [Socratica Toolbox](https://toolbox.socratica.info/)
@@ -25,5 +36,3 @@ Want to see what Quartz can do? Here are some cool community gardens:
 - [Scaling Synthesis - A hypertext research notebook](https://scalingsynthesis.com/)
 - [Data Dictionary 🧠](https://glossary.airbyte.com/)
 - [sspaeti.com's Second Brain](https://brain.sspaeti.com/)
-
-If you want to see your own on here, submit a [Pull Request adding yourself to this file](https://github.com/jackyzha0/quartz/blob/v4/docs/showcase.md)!

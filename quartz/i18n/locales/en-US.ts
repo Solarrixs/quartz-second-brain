@@ -33,13 +33,13 @@ export default {
       title: "Explorer",
     },
     footer: {
-      createdWith: "Created with",
+      createdWith: "Created by",
     },
     graph: {
       title: "Graph View",
     },
     recentNotes: {
-      title: "Recent Notes",
+      title: "Recently Updated Notes",
       seeRemainingMore: ({ remaining }) => `See ${remaining} more →`,
     },
     transcludes: {

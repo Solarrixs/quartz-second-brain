@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Maxx Yung's Second Brain",
+    pageTitle: "notes.maxxy.dev",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "notes.maxxy.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       cdnCaching: true,
       typography: {
@@ -27,8 +27,8 @@ const config: QuartzConfig = {
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
+          secondary: "#15B8A6",
+          tertiary: "#CC65F2",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
@@ -37,9 +37,9 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          secondary: "#15B8A6",
+          tertiary: "#CC65F2",
+          highlight: "rgba(60, 156, 216, 0.15)",
         },
       },
     },
