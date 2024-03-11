@@ -6,5 +6,6 @@ title: Welcome!
 Welcome to my digital garden! It's hosted on Obsidian and is used to store my notes, which are generally on productivity, professional development, and random interesting rabbit holes!
 
 ## Recommended Exploration
-- [[About/Quotes|Favorite Quotes List]]
-- [[About/Mission|Mission Statement]]
+- To know more [[About]] me
+- To read my notes on [[Professional]] developments
+- To read my mock [[Venture Capital]] investment memos and thesis

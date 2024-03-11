@@ -1,0 +1,21 @@
+---
+title: About Maxx
+---
+
+Hello! My name is [Maxx Yung](https://www.maxxy.dev/), and I'm studying Materials Science and Engineering and Computer Science at the University of Pennsylvania. I'm also considering a minor in Engineering Entrepreneurship.
+
+Most of time is currently split between studying at uni, researching at [Corder Labs](https://corderlab.com/) & [Singh Nanotech Center](https://www.nano.upenn.edu/), and [Nanoneuro Systems](https://www.nanoneuro.systems/), a deeptech startup I founded to create climate-friendly AI chips powered by human brain cells.
+
+I also happen to love note-taking (hence this website). My friends describe me as a "30 year old in a 19 year old body," and to reinforce that image, you can read about my [[Mission|Life Values]] and my [[Quotes|Favorite Quotes]].
+
+I'm interested in many fields, and that has led to some very unique hobbies! Currently, I'm in love with:
+- **Deeptech startups:** visionaries who want to solve hard problems and change the world inspire me. I'm very interested in working with [Varda](https://www.varda.com/) as it matches my experience in bioengineering and materials engineering; [Anduril](https://www.anduril.com/) partly because I find defense technologies simply *cool* but mostly because I believe the future of self-defense and warfare lies in autonomous swarm vehicles; [Lightmatter](https://lightmatter.co/) because photonics-based computing will be the biggest acceleration of sustainable computing since the development of transistors; and [Atomic Semi](https://atomicsemi.com/) as a revolution in semiconductor fab design will greatly accelerate human progress. *If you happen to be a recruiter at these companies, please reach out!* 😄
+- **Space & astrophotography**: I love space. Space is truly our final frontier that we will never be able to fully explore. Likewise, galactic images inspire me and are thus my desktop, phone, and laptop wallpapers! I'm just getting started in astrophotography as well, mainly because it is *very* expensive, and I live in a Bortle 10 zone (New York City).
+- **Keyboarding**: I type all day (peak 230wpm). Why not get a 10 pound, brass-plated keyboard? Besides, I've learned to solder and got into PCB design because of modding keyboards, so it has served me well.
+- **Programming**: I'm not talented in programming, but I recognize its usefulness in the real-world. So I'm really trying to push through the DSA grind and make myself useful in a professional world. Currently, Python and some front-end tools! Here's my [GitHub](https://github.com/Solarrixs).
+- **Badminton stringing:** The high cost of badminton stringing leaves badminton an unattractive, expensive sport. I first realized this in 11th grade, and have since spent >300 hours [stringing](https://www.youtube.com/watch?v=Rn60a2ADdDw) 100+ rackets across New York City and Philadelphia every year. I charge 30-40% of typical prices (if you're a non-profit community center, then it is free!) in an effort to encourage badminton as a sport in America. (Want your racket strung? Visit [YungStrung](https://www.yungstrung.com).)
+- **Self-hosting services**: I was bullish on privacy, and it turns out I was right. Now, user data has become the most important commodity in this AI-centric future, and I'm irrationally afraid of being deepfaked onto some video. No thanks. I self-host on a 10 year old Dell tower, with some of my favorite programs being [Immich](https://immich.app/), [NextCloud](https://nextcloud.com/) and [WireHole](https://github.com/IAmStoxe/wirehole). The only bad experience I've had with this was being hacked.
+- **Coral reefing:** I have raised reef tanks since I was 6. Corals are beautiful, and corals are becoming extinct. I spend a lot of my time fragging corals and donating them to local research institutions to figure out how to make corals resilient to climate change.
+
+Here are hobbies I've done in the past:
+- **Alzheimer's research**: Starting from 7th grade till 12th grade, I spent 10+ hours a week discovering a novel pathway for treating memory degeneration. Won the International Regeneron Science Talent Search Semifinalist Award and the 2023 American Academy of Neurology Neuroscientist Award. Spoke at the [75th Annual US Neurology Conference](https://www.youtube.com/watch?v=kdUWe8GyH5U), MIT, and Stanford Medicine.
